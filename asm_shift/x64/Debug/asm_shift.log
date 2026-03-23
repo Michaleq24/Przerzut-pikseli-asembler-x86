@@ -1,0 +1,4 @@
+﻿  Assembling avx_worker.asm...
+  asm_shift.c
+     Trwa tworzenie biblioteki C:\Users\misfi\Desktop\Projekt_JA\PrzerzutPikseli_Solution\x64\Debug\asm_shift.lib i obiektu C:\Users\misfi\Desktop\Projekt_JA\PrzerzutPikseli_Solution\x64\Debug\asm_shift.exp
+  asm_shift.vcxproj -> C:\Users\misfi\Desktop\Projekt_JA\PrzerzutPikseli_Solution\x64\Debug\asm_shift.dll
